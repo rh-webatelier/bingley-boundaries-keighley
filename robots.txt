@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rh-webatelier.github.io/bingley-boundaries-keighley/sitemap.xml
